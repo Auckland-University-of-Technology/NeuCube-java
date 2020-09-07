@@ -1,0 +1,16 @@
+2016-05-26 10:06:22,174 ERROR [main] log.Log - This is an error
+2016-05-26 10:06:22,174 INFO [main] log.Log - this is info log
+2016-05-26 10:06:22,174 FATAL [main] log.Log - fatal message
+2016-05-26 10:06:22,174 WARN [main] log.Log - warning
+2016-05-26 10:06:22,174 INFO [main] log.Log - Another way to log Info errors
+2016-05-26 10:06:22,174 ERROR [main] log.Log - catching
+java.lang.ArithmeticException: / by zero
+	at jneucube.log.Log.main(Log.java:45) [classes/:?]
+2016-05-26 11:37:26,516 ERROR [main] log.Log - This is an error
+2016-05-26 11:37:26,516 INFO [main] log.Log - this is info log
+2016-05-26 11:37:26,516 FATAL [main] log.Log - fatal message
+2016-05-26 11:37:26,516 WARN [main] log.Log - warning
+2016-05-26 11:37:26,516 INFO [main] log.Log - Another way to log Info errors
+2016-05-26 11:37:26,516 ERROR [main] log.Log - catching
+java.lang.ArithmeticException: / by zero
+	at jneucube.log.Log.main(Log.java:44) [classes/:?]
